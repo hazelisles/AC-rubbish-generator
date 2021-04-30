@@ -1,0 +1,13 @@
+.page-title {
+  color: black;
+  font-weight: bold;
+}
+
+.image {
+  max-height: 190px;
+  overflow: hidden;
+}
+
+#rubbish {
+  width: 800px;
+}
