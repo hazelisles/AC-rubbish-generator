@@ -10,4 +10,8 @@
 
 #rubbish {
   width: 800px;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: monospace, sans-serif;
+  box-shadow: 1px 1px 1px #999;
 }
