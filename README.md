@@ -3,7 +3,7 @@
 
 ## 專案畫面
 <h4> 專案首頁 </h4>
-<img align="center" src="https://github.com/hazelisles/AC-rubbish-generator/blob/master/rubbish-demo.gif?raw=true" width="750"/>
+<img align="center" src="https://github.com/hazelisles/AC-rubbish-generator/blob/master/rubbish_demo.gif?raw=true" width="750"/>
 
 ## 功能描述
 * 可以在工程師、設計師、創業家中，任選一個職業後，隨機產生一句幹話。
